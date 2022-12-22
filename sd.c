@@ -1,3 +1,4 @@
+//wap to print the sum of a digit
 #include<stdio.h>
 void main()
 {
